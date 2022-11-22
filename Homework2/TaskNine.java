@@ -7,7 +7,6 @@ public class TaskNine {
         System.out.println("Print array length");
         int value = scanner.nextInt();
         int[] mas = new int[value];
-        System.out.println(mas);
         for (int i = 0; i < value; i++) {
             mas[i]= scanner.nextInt();
         }
