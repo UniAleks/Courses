@@ -10,7 +10,6 @@ public class TaskNine {
         for (int i = 0; i < value; i++) {
             mas[i]= scanner.nextInt();
         }
-        System.out.println(mas);
         int[] resultMas = new int[2];
         int posValuesAmount = 0;
         int sumOfNegatives=0;
